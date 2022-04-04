@@ -9,6 +9,8 @@ public class DemoClass {
 
 	public static void main(String[] args) {
 
+		//Checkk
+		
 		//ini adalah letak dimana ada file chrome drivernya
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\novenry.herman\\Documents\\09Selenium\\chromedriver.exe");
 
